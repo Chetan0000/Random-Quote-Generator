@@ -5,6 +5,10 @@ const db = require('./config/mongoose');
 
 
 
+
+// node mailer 
+
+const mailer = require('./controllers/sendEmail');
  
 
 
